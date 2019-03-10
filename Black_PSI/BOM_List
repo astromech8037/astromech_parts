@@ -1,0 +1,20 @@
+BOM - Build of Materials
+
+For a typical R2 unit, you will need the following:
+
+2x PSI LED PCBs 
+2x PSI LED Power Back Pack PCB
+1x PSI LED Controller PCB
+1x AdaFruit ItsyBitsy M0 
+1x Pololu 5V, 5A Step-Down Voltage Regulator (D24V50F5)
+1x Molex Connector (Molex Part #0393570002) https://www.digikey.com/product-detail/en/molex/0393570002/WM7877-ND/946543
+4x Molex Connector (Molex Part #0393570004)
+1x SPST DIP Switch Slide (Manufacturer Part #219-2MST)
+1x 10K resistor array (Manufacturer Part #ACASN1002S1002P1AT)
+2x 100k pot (Manufacturer Part #TC33X-2-104E)
+2x 14 position female header (Manufacturer Part #PPPC141LFBN-RC)
+1x 5 position female header (Manufacturer Part #PPPC051LFBN-RC)
+3x 14 position male header (Manufacturer Part #PRPC014SAAN-RC)
+  NOTE:  plus 1 for use on PSIs
+1x 5 position male header (Manufacturer Part #PRPC005SFAN-RC)
+300x APA102-2020 RGB LEDs (Manufacturer Part #APA-102-2020-8192B-8)
